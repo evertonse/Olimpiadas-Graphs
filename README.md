@@ -15,3 +15,8 @@ de <Tipo de Olimpíada>, separados por sexo.
 
 ## Run 
 - main.py
+  
+ ## Examples:
+<p align="center">
+  <img src="./graphs/boxplot.png" width="350" title="hover text">
+</p>
