@@ -18,5 +18,5 @@ de <Tipo de Olimpíada>, separados por sexo.
   
  ## Examples:
 <p align="center">
-  <img src="./graphs/boxplot.png" width="350" title="hover text">
+  <img src="./graphs/boxplot.png" width="750" title="hover text">
 </p>
